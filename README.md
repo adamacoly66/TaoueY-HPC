@@ -23,6 +23,6 @@ Ci-dessous, vous trouverez une liste des didacticiels suivant votre environnemen
 *  [Utilitaires sur Slurm > ](https://github.com/DiopBabacarEdu/TaoueY-HPC/tree/main/SLURM)  
 Pour plus d'informations, visiter notre site web officiel [www.cineri.sn](https://www.cineri.sn).
 
-Vous pouvez également nous contacter via le mail support : [support@cineri.sn](support@cineri.sn).
+Vous pouvez également nous contacter via le mail support : [support-taouey@cineri.sn](support-taouey@cineri.sn).
 
 <img width="981" alt="image" src="https://github.com/DiopBabacarEdu/TaoueY-HPC/assets/20286290/b109ef72-75c9-4b06-93a9-3a9ddc597575">
